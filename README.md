@@ -52,6 +52,8 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 
 ## Result
+<img width="440" height="429" alt="image" src="https://github.com/user-attachments/assets/db4e9ee5-bcb9-4fc0-a5ab-5202e4a2baa5" />
+
 
 
 
