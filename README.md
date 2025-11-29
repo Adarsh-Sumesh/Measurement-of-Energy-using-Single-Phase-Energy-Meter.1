@@ -42,17 +42,17 @@ R−A /A *100%
 
 Enter the no. of times Green LED blinks in 1min(Meter Counter):  
 
-## Circuit Connection Diagram with Tabulation 
+## Circuit Connection Diagram with Tabulation:
 
-<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
-
-## Output Waveform
-
+<img width="1383" height="915" alt="image" src="https://github.com/user-attachments/assets/b5e252db-0c05-459f-8de6-6cd8d3cacd47" />
+<img width="1628" height="572" alt="image" src="https://github.com/user-attachments/assets/b7f5484e-2836-4045-b4ff-1ea44b4c84ee" />
 
 
 
-## Result
-<img width="440" height="429" alt="image" src="https://github.com/user-attachments/assets/db4e9ee5-bcb9-4fc0-a5ab-5202e4a2baa5" />
+
+## Result:
+Thus the energy consumed in a single phase circuit is measured.
+
 
 
 
