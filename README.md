@@ -29,7 +29,7 @@ Step 9: Click on   PRINT  button to print the webpage.
 
 Step 10: Click on   RESET  button to refresh the webpage.
 
-## FORMULA
+## FORMULA:
 Actual Energy (A) = 
 V*I*T /1000     kw-hr
 
@@ -42,16 +42,17 @@ R−A /A *100%
 
 Enter the no. of times Green LED blinks in 1min(Meter Counter):  
 
-## Circuit Connection Diagram with Tabulation 
+## Circuit Connection Diagram with Tabulation:
 
-<img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
+<img width="1110" height="754" alt="image" src="https://github.com/user-attachments/assets/c7b4c115-24dd-491c-a2b1-89c8871f28db" />
 
-## Output Waveform
-
-
+<img width="1633" height="547" alt="image" src="https://github.com/user-attachments/assets/eb7e097b-0164-4e26-84e6-3178adc817ec" />
 
 
-## Result
+
+
+## Result:
+Thus the energy consumed in a single phase circuit is measured.
 
 
 
